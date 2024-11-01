@@ -1,0 +1,144 @@
+*4.1.5 - 2023-22-12
+- testing twitter updates
+
+*4.1.4 - 2023-14-12
+- deleted the error logs
+-make sure everything works with the latest updates
+- updated avatar image handling
+
+*3.1.2 - 2021-11-11
+- deleted placeholder images for the error logs
+
+*3.1.1 - 2021-10-29
+deleted '\' in file class-socialwebsuite.php on line 568
+Credit: flatlinesradio
+
+== 3.1.0 - 2021-10-29
+- video link to YT
+https://www.youtube.com/channel/UCuOPStwAbLCYCT2KeRrCZ4w
+
+*3.0.0 - 2021-5-14
+- placeholder image and functionality for the social profiles that don't have images
+- Instagram icon on Instagram social profiles
+
+Changes have been made in:
+- admin.css
+- readme file (change log, description, changed the videos from Vimeo to YouTube)
+- class-socialwebsuite-helpers.php
+- post-meta-box.php
+- social-web-suite.php
+
+*2.0.10 - 2020-10-10
+- Posts that are not public are not going to be shared.
+
+*2.0.9 - 2020-10-01
+- Update for WordPress version 5.5.1
+- notifications hidden
+
+*2.0.8 - 2019-11-15
+- import categories limit 1000 posts
+
+*2.0.7 - 2019-10-30
+- import categories limit 1000 posts
+
+*New in version 2.0.6
+- Minor improvements. Global functions to share posts programmatically. Minor fixes for WooCommerce taxonomy. Added filter to skip the specific post type from being shared
+*New in version 2.0.5
+- Minor improvements. Remove notice on subscription expired or trial expired if user subscribes.
+*New in version 2.0.4
+- Gutenberg compatibility improvements. Prevent sending post to server when sharing is off. Set checked or unchecked social accounts.
+*New in version 2.0.3
+- Minor updates
+*New in version 2.0.2
+- Minor updates
+*New in version 2.0.1
+- Minor updates
+*New in version 2.0.0
+- Updates for new Social Web Suite service version release
+*New in version 1.4.13
+- Support for unicode charachters in custom messages
+*New in version 1.4.12
+- tested against the 5.0.3
+*New in version 1.4.11
+- Deactivation fix with undefined variable
+*New in version 1.4.4*
+- Minor updates
+*New in version 1.4.3*
+- Added refresh button to reconnect site that was unavailable. Added hook to include/exclude post IDs. Added option to include/exclude non-public custom post types
+*New in version 1.4.2*
+- GDPR compliance completed
+*New in version 1.4.1*
+- Redesign for individual post settings. Minor fixes for posts list query
+*New in version 1.4.0*
+- Minor fixes, allow line breaks in sharing format
+*New in version 1.3.9*
+Minor fixes
+*New in version 1.3.8*
+Minor fixes, retrieve full image, not resized, methods to retrieve original image for old set schedules
+*New in version 1.3.7*
+- Minor fixes and changes
+*New in version 1.3.6*
+- Minor fixes
+*New in version 1.3.5*
+- UI improvements and minor fixes
+*New in version 1.3.4*
+- Added custom messages for single post to be sent instead of title, added checklist of connected Social Network profiles for single post settings, so user can select to which Social Network profile post will be shared
+*New in version 1.3.3*
+- Limit date range for custom schedule dates, various minor fixes
+*New in version 1.3.2*
+- Changed characters number limit for custom message for individual post settings
+*New in version 1.3.1*
+- minor changes
+*New in version 1.3.0*
+- minor fixes
+*New in version 1.2.9*
+- New feature for listing custom post types to exclude them added, minor fixes
+*New in version 1.2.6*
+- Added translation file with translatable strings, Minor tweaks fixes
+*New in version 1.2.5*
+- Minor Fixes
+*New in version 1.2.4*
+- Minor fix for activation process
+*New in version 1.2.3*
+- Minor fix for php backwards compatibility
+*New in version 1.2.2*
+- Removed automatic conversion to lowercase for hashtags
+*New in version 1.2.1*
+- Minor fix for WordPress scheduled posts
+*New in version 1.2.0*
+- Minor fixes
+*New in version 1.1.9*
+- Minor fix for query when retrieving posts list
+*New in version 1.1.8*
+- Minor fixes, skip double sharing when user schedules or shares now post, if also set to be shared on update or publish
+*New in version 1.1.7*
+- Minor fixes, added opt-in for collecting basic user and site info
+*New in version 1.1.6*
+- Fixed minor javascript conflict issue
+*New in version 1.1.5*
+- Minor fixes, added custom message counter, add format tags on click
+*New in version 1.1.4*
+- Minor UI style fixes, minor code fixes
+*New in version 1.1.3*
+- Minor fix for post revision and hide misc. options in case user selects don't share under individual post settings
+*New in version 1.1.2*
+- Changed user path that points to Social Web Suite service control panel, minor fixes
+*New in version 1.1.1*
+-Fix for adblock blocking javascript file, added notice to disable adblock
+*New in version 1.1*
+-Changed Help url, added call to action notice, minor code fixes
+*New in version 1.0.9*
+-Quick minor fix
+*New in version 1.0.8*
+-Various fixes and code changes
+*New in version 1.0.7*
+-Minor fix in individual settings for post
+*New in version 1.0.6*
+-Non-evergreen posts feature, Share by categories, minor fixes
+*New in version 1.0.5*
+-Minor typo fixes, fixed issue with warning showing when activating plugin through wp-cli
+*New in version 1.0.4*
+-Added Tina as contributor
+*New in version 1.0.0*
+-connecting to Social Web Suite - social media dashboard for WordPress
+

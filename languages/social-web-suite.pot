@@ -1,0 +1,469 @@
+# Copyright (C) 2017 hypestudio,nytogroup,dejanmarkovic,tinat
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Web Suite - Social Media Auto Post, Auto Publish "
+"and Schedule 1.2.6\n"
+"Report-Msgid-Bugs-To: http://dejanmarkovic.com/contact/\n"
+"POT-Creation-Date: 2017-09-12 12:13:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Tina Todorovic <info@socialwebsuite.com>\n"
+"Language-Team: Social Web Suite <info@socialwebsuite.com>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;_"
+"nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2;"
+"\n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/admin/class-socialwebsuite-admin-ui.php:68
+msgid "This content will be shared automatically on"
+msgstr ""
+
+#: includes/admin/class-socialwebsuite-admin-ui.php:157
+msgid "Connected Social Media Accounts"
+msgstr ""
+
+#: includes/admin/class-socialwebsuite-admin-ui.php:173
+msgid "You didn't connect any accounts yet."
+msgstr ""
+
+#: includes/admin/class-socialwebsuite-admin.php:76
+msgid "Social Web Suite"
+msgstr ""
+
+#: includes/admin/class-socialwebsuite-admin.php:151
+#. translators: %s is replaced with "string"
+msgid "Sharing Settings - %s"
+msgstr ""
+
+#: includes/admin/class-socialwebsuite-admin.php:168
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-socialwebsuite-admin.php:169
+msgid "Website"
+msgstr ""
+
+#: includes/admin/templates/admin-notice.php:11
+msgid ""
+"Connect this site to your Social Web Suite dashboard so you can auto-post, "
+"schedule, automate, manage, publish, customize, share and promote your "
+"posts to all your social network accounts, engage with your audience and "
+"measure the success of your social media campaigns. All this from one "
+"dashboard only."
+msgstr ""
+
+#: includes/admin/templates/admin-notice.php:21
+#: includes/admin/templates/settings.php:84
+msgid "Connect to Social Web Suite"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:34
+#. translators: %s is replaced with "string"
+msgid "Hey %s,"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:36
+msgid "Please help us improve"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:38
+msgid "If you opt-in, some data about your usage of"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:40
+msgid "will be sent to"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:41
+msgid "Social Web Suite "
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:42
+msgid "If you skip this, that's okay!"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:44
+msgid "will still work just fine."
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:51
+msgid "Skip"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:59
+msgid "Allow &amp; Continue"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:65
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:74
+msgid "Your Profile Overview"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:78
+msgid "Name and email address"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:88
+msgid "Your Site Overview"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:92
+msgid "Site URL, WP version, PHP info, plugins &amp; themes"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:102
+msgid "Current Plugin Events"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:106
+msgid "Activation, deactivation and uninstall"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:115
+msgid "Privacy Policy"
+msgstr ""
+
+#: includes/admin/templates/admin-optin.php:119
+msgid "Terms of Service"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:10
+msgid "The plugin settings were confusing"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:12
+msgid ""
+"Can you please leave us your email address, so we can help you out with the "
+"plugin settings"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:16
+msgid "I couldn't figure out how the plugin works"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:18
+msgid ""
+"Can you please leave us your email address, so we can help you out with the "
+"plugin"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:22
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:28
+msgid "I found a better plugin"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:30
+msgid "What's the plugin's name?"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:34
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:40
+msgid "The plugin broke my site"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:46
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:52
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:58
+msgid "Other"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:82
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:86
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:205
+msgid "Submit and Deactivate"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:218
+msgid "Kindly tell us the reason so we can improve."
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:319
+msgid "Yes, deactivate"
+msgstr ""
+
+#: includes/admin/templates/deactivation-modal.php:321
+msgid "Skip and deactivate"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:108
+#. translators: %s is replaced with "string"
+msgid ""
+"It seems that your AdBlock is activated and you can't adjust the Social Web "
+"Suite settings. Please disable the AdBlock for all the pages for this "
+"domain. If you need help with this <a href=\"%s\" target=\"_blank\">contact "
+"us</a>."
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:123
+#: includes/admin/templates/post-meta-box.php:292
+msgid "Use the default settings"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:124
+msgid "Don't share this"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:125
+msgid "Share it using the following settings"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:126
+msgid "Share it only between specific dates"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:136
+msgid "Choose Start Date"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:172
+msgid "Choose End Date"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:179
+msgid "Choose End Time"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:205
+msgid ""
+"Warning: Both start and end date are empty. Either choose one or both of "
+"these, or settings will be switched back to default settings upon post "
+"update."
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:207
+msgid ""
+"IMPORTANT: In order to make sure that start and end time will match your "
+"local time please make sure to set correctly your Time Zone in WordPress "
+"Dashboard &rarr; Settings &rarr; Time Zone."
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:214
+msgid "Schedule share date/time"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:218
+msgid "Share it right away"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:220
+msgid "Schedule it to be shared later"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:229
+msgid "Choose Date"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:235
+msgid "Choose Time"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:259
+msgid ""
+"IMPORTANT: In order to make sure that scheduled time will match your local "
+"time please make sure to set correctly your Time Zone in WordPress "
+"Dashboard &rarr; Settings &rarr; Time Zone."
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:276
+msgid ""
+"Override site settings for this post - Image settings, hashtags, message "
+"format or use custom message"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:280
+msgid "Misc. options"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:282
+msgid "Share should include the Featured Image (if set)"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:284
+msgid "Use the default setting"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:285
+msgid "Don't include"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:286
+msgid "Include image"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:290
+msgid "Use #hashtags?"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:293
+msgid "Don't use #hashtags"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:294
+msgid "Use categories as #hashtags"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:295
+msgid "Use tags as #hashtags"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:296
+msgid "Use the custom #hashtags"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:300
+msgid "Use these #hashtags"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:305
+msgid ""
+"Warning: To use hashtags make sure that the message format (below), if set "
+"to override default format from site settings, is configured to include "
+"{hashtags}."
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:309
+msgid "Customize the message format"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:311
+msgid "Note: Leave blank to use the default format."
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:313
+msgid "Allowed tags: "
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:320
+msgid "Use custom message"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:323
+msgid "Note: If not empty, custom message will be sent instead of title"
+msgstr ""
+
+#: includes/admin/templates/post-meta-box.php:324
+msgid "Type message with maximum of 100 characters"
+msgstr ""
+
+#: includes/admin/templates/settings.php:11
+msgid "Plugin is activated"
+msgstr ""
+
+#: includes/admin/templates/settings.php:13
+msgid ""
+"You can fine-tune all the plugin's settings and much more using a control "
+"panel on our server."
+msgstr ""
+
+#: includes/admin/templates/settings.php:18
+msgid "Go to Control Panel"
+msgstr ""
+
+#: includes/admin/templates/settings.php:49
+msgid "Activate"
+msgstr ""
+
+#: includes/admin/templates/settings.php:58
+#. translators: %s is replaced with "string"
+msgid ""
+"Please connect your site with our server so you can enjoy using the plugin."
+"Simply click on the button \"Connect to Social Web Suite\" and follow our 5 minutes setup wizard."
+#"If you don't have an account on our server <a href=\"%s\" class=\"button "
+#"button-primary\" target=\"_blank\">please register first</a>, and then come "
+#"back here and proceed."
+msgstr ""
+
+#: includes/admin/templates/settings.php:71
+msgid ""
+"In order to use this plugin you have to first activate it by connecting it "
+"with our server."
+msgstr ""
+
+#: includes/admin/templates/settings.php:74
+msgid ""
+"To do this just click on the button below, and then follow the instruction "
+"to login to your account and activate the plugin."
+msgstr ""
+
+#: includes/admin/templates/settings.php:78
+msgid ""
+"I authorize Social Web Suite to read/process posts pages and meta "
+"information associated with them like: tags, categories and images. Social "
+"Web Suite will not collect any personal or any other infomation than the "
+"info that we need to process in order to share your posts and pages."
+msgstr ""
+
+#: includes/admin/templates/settings.php:86
+msgid "Read the Manual"
+msgstr ""
+
+#: includes/admin/templates/settings.php:89
+msgid "Watch How To Video's"
+msgstr ""
+
+#: includes/admin/templates/settings.php:100
+msgid "Link Boundaries"
+msgstr ""
+
+#: includes/admin/templates/settings.php:101
+msgid ""
+"Have you ever tried updating a link, or the text around a link, and found "
+"you can’t seem to edit it correctly? When you edit the text after the link, "
+"your new text also ends up linked. Or you edit the text in the link, but "
+"your text ends up outside of it. This can be frustrating! With link "
+"boundaries, a great new feature, the process is streamlined and your links "
+"will work well. You’ll be happier. We promise."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Social Web Suite - Social Media Auto Post, Auto Publish and Schedule"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://socialwebsuite.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Manage all your social media accounts from one place. Automate, schedule & "
+"publish your posts/custom post types/pages to major social networks"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "hypestudio,nytogroup,dejanmarkovic,tinat"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://hypestudio.org/"
+msgstr ""
